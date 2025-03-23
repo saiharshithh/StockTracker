@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 import pandas as pd
 
 # Set up the Streamlit app (MUST BE THE FIRST COMMAND)
-st.set_page_config(page_title="Stock Tracker - By Sai Harshith", layout="centered")
+st.set_page_config(page_title="Stock Tracker", layout="centered")
 
 # Custom CSS for styling (hide sidebar)
 st.markdown(
